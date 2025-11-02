@@ -27,7 +27,7 @@ Ele busca preços em tempo real da Binance para fornecer uma análise precisa e 
 
 ## 🚀 Demonstração
 
-Visão geral da interface, mostrando o registro de uma nova operação e a mensagem de sucesso com a taxa aplicada.
+Visão geral da interface, mostrando o registro de uma nova operação.
 
 ![Demonstração do App](img/demo.png)
 
