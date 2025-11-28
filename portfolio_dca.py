@@ -1267,7 +1267,7 @@ class PortfolioDCA:
             pl_total = dados.get('lucro_total', 0)
 
             if custo > 0.000001: 
-                porcentagem = (pl_total / custo) * 100
+                porcentagem = (pl_n_realizado / custo) * 100
                 str_porcentagem = f"{porcentagem:+.2f}%" 
             else:
                 str_porcentagem = "0.00%"
